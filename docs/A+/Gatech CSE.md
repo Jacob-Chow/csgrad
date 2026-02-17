@@ -4,17 +4,17 @@
 性价比是真的高
 先说最重要的——便宜！一个学期四门课学杂费加起来 1.7w+，比一堆动不动四五万刀的学校良心多了。而且做 TA/RA 可以免学费+每个月 800 刀生活费（相当于白嫖一个硕士）
 
-除了使用TA/RA可以免除学费之外, 非美本可以使用 reduce academic load的方法在第一学期降低workload, 同时也可以因为part-time入读降低学费和降低工作量在第一学期全力找intern.
+除了使用TA/RA可以免除学费之外, 非美本可以使用 reduce academic load的方法在第一学期降低workload, 同时也可以因为part-time入读降低学费和降低工作量在第一学期全力找intern. ta 目测还是相对好找, 但是 ra 比较困难 (cs教授的招 ra 基本是强 prof, 有一篇 published 顶会一作会比较好找)
 
 CSE 这个项目选课真的很灵活。除了四门 core 课（偏计算/数学），剩下的基本和 CS 差不多，CS 课都能选，而且和 MSCS 优先级一样。最爽的是，我们 CSE 不用选 specialization（因为 CSE 本身就是 MSCS 下面的一个 specialization），所以只要能说服教导主任，基本都能算学分。这样一来，比 MSCS 还自由，三个学期一定能毕业，除非你自己想多读会儿。
 
-i20是computer science，找工简历专业可以写computer science，同时gt 内部转专业很容易，上完课就能转cs,, 好像理论上的bar是第一学期GPA3.5(待考证).
+i20是computer science，找工简历专业可以写computer science，同时gt 内部转专业很容易，上完课就能转cs, 好像理论上的bar是第一学期GPA3.5(待考证).
 
 ## 录取bar 和标准
 
 mscs>cse coc>=cse isye>其他units
 
-就录取本身的难度来说, coc喜欢要target school的，同时基本只看三维，别的track可能好点，可以选一点冷门的track进来转coc或者mscs. 选择不同的home unit确实可以降低录取的难度, 但是随着录取难度的降低, 项目的hc也在指数级别减少, 在选择的时候需要注意这个trade off. 比如本人从来不知道是否有 cse (math) 在读, 猜测有些home unit的cse项目是为了给已经录取的别的项目的人 or 已经在读的人来dual degree所设计的. 所以, 一个可以选择的路径是, 申请gt别的项目, 进来再dual, 比如isye的一些项目(gt的isye开了很多项目) or ee,建筑,生物,化学的项目, 但是这些项目对本身bg是cs的人又不是很友好.
+就录取本身的难度来说, coc喜欢要target school的，同时基本只看三维，别的track可能好点，可以选一点冷门的track进来转coc或者mscs. 选择不同的home unit确实可以降低录取的难度, 但是随着录取难度的降低, 项目的hc也在指数级别减少, 在选择的时候需要注意这个trade off. cse(math unit) 最后入读人数一只手就数得过来. 此外, 一个可以选择的路径是, 申请gt别的项目, 进来再dual, 比如isye的一些项目(gt的isye开了很多项目) or ee,建筑,生物,化学的项目, 但是这些项目对本身bg是cs的人又不是很友好.
 
 
 ## 找工出路
